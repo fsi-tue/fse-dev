@@ -5,10 +5,10 @@ Fachschaftsempfaenger Development Config
 .. image:: https://img.shields.io/github/license/fsi-tue/fse-dev.svg
     :target: https://github.com/fsi-tue/fse-dev/blob/master/LICENSE.txt
 
-.. image: https://img.shields.io/badge/python-3-green.svg
+.. image:: https://img.shields.io/badge/python-3-green.svg
     :target: https://www.python.org/
 
-.. image https://img.shields.io/badge/django-2.0-green.svg
+.. image:: https://img.shields.io/badge/django-2.0-green.svg
     :target: https://www.djangoproject.com/
 
 This repository contains a Django Development Server for developing the
